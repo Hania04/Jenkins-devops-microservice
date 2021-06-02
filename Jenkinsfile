@@ -36,7 +36,7 @@ pipeline {
 			always{
 			   echo "I am Good"
 				}
-			success{ echo 'I Run when Success'}
+			success{ echo 'I Run when Successfull'}
 			failure { echo ' Run When Failure'} 
 			
 		}
